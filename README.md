@@ -12,7 +12,7 @@ Il automatise la gestion des paiements en facilitant la création et le suivi de
 ✅ Recherche et gestion des engagements enregistrés.  
 
 ## 🛠 Technologies utilisées  
-- **C#** (.NET 6/7)  
+- **C#** (.NET)  
 - **WinForms ** pour l’interface utilisateur  
 - **EPPlus / ClosedXML** pour la gestion des fichiers Excel  
 
